@@ -1,5 +1,5 @@
 # Sutro UI 
-This package contains the primary style sheets for EstiBase Cloud Platform.
+This package contains the primary styling for Sutro Analytics Cloud Platform.
 
 ---
 
@@ -22,7 +22,7 @@ Here's something that is **bold**
 Here's something that is *italic*
 
 ## Non-Ordered Lists
-- Non-Ordered List
+- Angular Material
 - Second Item
 - Third Item
 
@@ -42,10 +42,7 @@ Here's something that is *italic*
 ## Layouts
 ### Page Layout
 Here's a basic thing of text
-Why is this so big
-`
-.page-layout
-`
+
 ---
 
 ## Basic Package Maintenance
