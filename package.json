@@ -1,0 +1,19 @@
+{
+  "name": "sutro-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sutro-Analytics/sutro-ui.git"
+  },
+  "author": "Max Geller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sutro-Analytics/sutro-ui/issues"
+  },
+  "homepage": "https://github.com/Sutro-Analytics/sutro-ui#readme"
+}
