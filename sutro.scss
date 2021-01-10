@@ -3,10 +3,15 @@
 @include mat-core();
 
 @import "styles/animations/animations.scss";
+@import "styles/behaviors/behaviors.scss";
 @import "styles/components/components.scss";
+@import "styles/charts/charts.scss";
+@import "styles/forms/forms.scss";
 @import "styles/layouts/layouts.scss";
+@import "styles/media/media.scss";
+@import "styles/navigation/navigation.scss";
+@import "styles/sections/sections.scss";
 @import "styles/theme/theme.scss";
-
 
 // Create Main Theme Variable
 $theme: mat-light-theme($app-primary, $app-accent, $app-warn);
