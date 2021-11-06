@@ -1,7 +1,9 @@
 # Sutro UI 
-This package contains the primary styling for Sutro Analytics Cloud Platform.
+This package contains the primary styling for EstiBase Cloud Platform.
 
 ---
+
+Sutro UI Requires Angular Material & Flex Layout to be installed
 
 > Here is a block quote
 
